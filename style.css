@@ -1,0 +1,30 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    font-family: cursive;
+    width: 100%;
+    margin: 0px;
+}
+
+.note {
+    font-family: fantasy;
+    font-size: 15px;
+    color: black;
+}
+
+.songname {
+    width: 200px;
+    font-size: 23px;
+    font-family: sans-serif;
+    border-radius: 20px;
+    color: silver;
+}
+
+canvas {
+    border: 5px solid white;
+    margin-top: 100px;
+    border-radius: 20px;
+}
